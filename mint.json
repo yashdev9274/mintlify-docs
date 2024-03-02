@@ -58,6 +58,12 @@
       ]
     },
     {
+      "group": "Resources",
+      "pages": [
+        "Intro.mdx"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
